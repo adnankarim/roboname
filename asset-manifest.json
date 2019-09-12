@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roboname/static/css/main.b635b742.chunk.css",
+    "main.js": "/roboname/static/js/main.49d4de34.chunk.js",
+    "main.js.map": "/roboname/static/js/main.49d4de34.chunk.js.map",
+    "runtime~main.js": "/roboname/static/js/runtime~main.bb3c53e4.js",
+    "runtime~main.js.map": "/roboname/static/js/runtime~main.bb3c53e4.js.map",
+    "static/js/2.9918f956.chunk.js": "/roboname/static/js/2.9918f956.chunk.js",
+    "static/js/2.9918f956.chunk.js.map": "/roboname/static/js/2.9918f956.chunk.js.map",
+    "index.html": "/roboname/index.html",
+    "precache-manifest.ae3c8690136fcc86c9b403874b02ee67.js": "/roboname/precache-manifest.ae3c8690136fcc86c9b403874b02ee67.js",
+    "service-worker.js": "/roboname/service-worker.js",
+    "static/css/main.b635b742.chunk.css.map": "/roboname/static/css/main.b635b742.chunk.css.map"
+  }
+}
